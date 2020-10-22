@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\bin\Debug\ComPort1.exe.config
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\bin\Debug\ComPort1.exe
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\bin\Debug\ComPort1.pdb
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.Form1.resources
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.exe
+C:\Users\Lenovo\source\repos\ComPort1\ComPort1\obj\Debug\ComPort1.pdb
